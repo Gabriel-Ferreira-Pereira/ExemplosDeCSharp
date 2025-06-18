@@ -58,4 +58,6 @@ using System;
 
 // Papelaria.Main(args);
 
-ExemploMetodoConstrutor.Main(args);
+// ExemploMetodoConstrutor.Main(args);
+
+ExemploParametroConstrutor.Main(args);
