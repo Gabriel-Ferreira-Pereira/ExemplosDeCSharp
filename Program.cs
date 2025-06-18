@@ -60,4 +60,8 @@ using System;
 
 // ExemploMetodoConstrutor.Main(args);
 
-ExemploParametroConstrutor.Main(args);
+// ExemploParametroConstrutor.Main(args);
+
+// ExParametroConstrutorVarios.Main(args);
+
+// ExPessoa02.Main(args);
