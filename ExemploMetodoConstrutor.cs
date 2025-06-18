@@ -12,7 +12,7 @@ namespace ExemplosDeAula
 
         public ExemploMetodoConstrutor()
         {
-            modelo = "Opala";
+            modelo = "Opala 6 CC";
         }
 
         public static void Main(string[] args)
